@@ -1,0 +1,305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8591,
+                    21.03109
+                ]
+            },
+            "properties": {
+                "address": "Reddoorz Near Tan Son Nhat Airport, Đường Bạch Đằng 63, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Reddoorz Near Tan Son Nhat Airport",
+                "distance": "141 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.86089,
+                    21.02826
+                ]
+            },
+            "properties": {
+                "address": "Phòng Trọ, Đường Bạch Đằng 172, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Phòng Trọ",
+                "distance": "240 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85699,
+                    21.0298
+                ]
+            },
+            "properties": {
+                "address": "Santa Maria, Phố Hàng Vôi, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Santa Maria",
+                "distance": "241 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85727,
+                    21.02836
+                ]
+            },
+            "properties": {
+                "address": "Khách Sạn Thăng Long Opera, Phố Tông Đản, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Khách Sạn Thăng Long Opera",
+                "distance": "268 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85664,
+                    21.03002
+                ]
+            },
+            "properties": {
+                "address": "Hanoi Balcony Homestay, Phố Hàng Vôi 19B, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Hanoi Balcony Homestay",
+                "distance": "278 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85898,
+                    21.02733
+                ]
+            },
+            "properties": {
+                "address": "Tre House - Hostel, Đường Hồng Hà 781, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Tre House - Hostel",
+                "distance": "281 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85726,
+                    21.02816
+                ]
+            },
+            "properties": {
+                "address": "Thang Long 2 Hotel, Phố Tông Đản, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Thang Long 2 Hotel",
+                "distance": "283 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85835,
+                    21.02744
+                ]
+            },
+            "properties": {
+                "address": "Hong Ha Hotel, Đường Trần Quang Khải 204, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Hong Ha Hotel",
+                "distance": "285 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85835,
+                    21.02744
+                ]
+            },
+            "properties": {
+                "address": "Khách Sạn Hồng Hà, Đường Trần Quang Khải 204, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Khách Sạn Hồng Hà",
+                "distance": "285 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8565,
+                    21.0301
+                ]
+            },
+            "properties": {
+                "address": "Eclipse Legend Hotel, Phố Hàng Vôi 36, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Eclipse Legend Hotel",
+                "distance": "293 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85639,
+                    21.03044
+                ]
+            },
+            "properties": {
+                "address": "Gold Star Hotel Hanoi, Phố Hàng Vôi 9, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Gold Star Hotel Hanoi",
+                "distance": "310 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85639,
+                    21.03044
+                ]
+            },
+            "properties": {
+                "address": "Alisa Spa, Phố Hàng Vôi 9, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Alisa Spa",
+                "distance": "310 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85639,
+                    21.03046
+                ]
+            },
+            "properties": {
+                "address": "Khách Sạn Thái Sơn, Phố Hàng Vôi 7, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Khách Sạn Thái Sơn",
+                "distance": "311 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85634,
+                    21.03032
+                ]
+            },
+            "properties": {
+                "address": "Old Quarter Hotel 1961, Phố Hàng Vôi, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Old Quarter Hotel 1961",
+                "distance": "313 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8566,
+                    21.03113
+                ]
+            },
+            "properties": {
+                "address": "Khách Sạn Thủy Lợi, Đường Trần Quang Khải 166, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Khách Sạn Thủy Lợi",
+                "distance": "316 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8566,
+                    21.03113
+                ]
+            },
+            "properties": {
+                "address": "Khách Sạn Pomihoa Hà Nội, Đường Trần Quang Khải 166, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Khách Sạn Pomihoa Hà Nội",
+                "distance": "316 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85749,
+                    21.02747
+                ]
+            },
+            "properties": {
+                "address": "Phuong Dong Guesthouse, Phố Tông Đản, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Phuong Dong Guesthouse",
+                "distance": "324 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85618,
+                    21.03064
+                ]
+            },
+            "properties": {
+                "address": "Awa Downtown Hostel, Phố Hàng Vôi 22, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Awa Downtown Hostel",
+                "distance": "337 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85618,
+                    21.03064
+                ]
+            },
+            "properties": {
+                "address": "Hoa Hostel, Phố Hàng Vôi 22, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Hoa Hostel",
+                "distance": "337 meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85618,
+                    21.03064
+                ]
+            },
+            "properties": {
+                "address": "Lluvia Hotel Hanoi, Phố Hàng Vôi 22, Quận Hoàn Kiếm, Việt Nam",
+                "name": "Lluvia Hotel Hanoi",
+                "distance": "337 meter"
+            }
+        }
+    ]
+}
